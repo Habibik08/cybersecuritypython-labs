@@ -165,4 +165,5 @@ def main():
     print("iot_specialist неправильний пароль:", r2)
 
 
-main()
+if __name__ == "__main__":
+    main()
